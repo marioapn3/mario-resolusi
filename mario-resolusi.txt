@@ -1,0 +1,4 @@
+Mario Resolusi
+- Konsisten belajar 
+- Bisa membuat ui ux dart
+- membuat forum diskusi
