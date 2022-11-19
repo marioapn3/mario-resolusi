@@ -1,6 +1,6 @@
 rencana mario konten
 - contoh 
 
--dart
+-dart ( membuat tampilan yang diberi )
 -php
 -web
