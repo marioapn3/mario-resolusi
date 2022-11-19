@@ -4,4 +4,4 @@ rencana mario konten
 -dart ( membuat tampilan yang diberi )
 -php
 -web
-- fundamentel struktur dasar
+menambah fitur 2
